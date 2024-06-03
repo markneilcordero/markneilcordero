@@ -1,4 +1,4 @@
-Hello! I'm Mark, a passionate Full Stack Developer with a diverse skill set spanning web development, software development, Android development, data science, machine learning, and game development. I thrive on learning new technologies and continuously improving my expertise. Here is a snapshot of my skills and the technologies I work with:
+Hello! I'm Mark, a passionate Full Stack Developer with a diverse skill set spanning web development, software development, Android development, data science, machine learning, and game development. I thrive on learning new technologies and continuously improving my expertise. Here's an overview of my skills and the technologies I work with:
 
 ## Skills
 
