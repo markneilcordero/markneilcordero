@@ -1,30 +1,23 @@
-👋 Hi, I'm Mark Neil Cordero a versatile developer with a passion for building exceptional digital experiences. In the realm of web development, I wield expertise in HTML, CSS, JavaScript, SQL, PHP, Bootstrap, jQuery, ReactJS, Laravel, and MySQL. For Android, I turn ideas into reality using Kotlin, while Java serves as my tool of choice for software development. In the world of data science and machine learning, I harness the power of Python to explore innovative solutions.
+Hello! I'm Mark, a passionate Full Stack Developer with a diverse skill set spanning web development, software development, Android development, data science, machine learning, and game development. I thrive on learning new technologies and continuously improving my expertise. Here is a snapshot of my skills and the technologies I work with:
 
-🚀 **Skills Highlights**:
+## Skills
 
-* **Web Development:** HTML, CSS, JavaScript, SQL, PHP, Bootstrap, Tailwind CSS, jQuery, ReactJs, Laravel, MySQL, SQLite.
+### Web Development
+- **Languages & Technologies**: HTML, CSS, JavaScript, SQL, PHP
+- **Frameworks & Libraries**: Bootstrap, TailwindCSS, jQuery, ReactJS, Laravel
+- **Databases**: SQLite, MySQL
 
-* **Android Development:** Kotlin
+### Android Development
+- **Languages**: Kotlin
 
-* **Software Development:** Java
+### Software Development
+- **Languages**: Java
+- **Frameworks**: JavaFX
 
-* **Data Science and Machine Learning:** Python
+### Data Science and Machine Learning
+- **Languages**: Python
 
-📚 **Continous Learning and Mastery:**
+### Game Development
+- **Platforms & Languages**: Roblox Studio, Lua
 
-* I am on a continuous journey of learning and mastering my skills, staying alongside of the latest technologies and industry best practices to ensure I deliver solutions of the highest quality.
-
-<!--
-**markneilcordero/markneilcordero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to explore my GitHub repositories to see some of the projects I've been working on!
