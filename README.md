@@ -49,7 +49,7 @@ I am a passionate **Full Stack Developer** with a growing interest in **Data Ana
 ---
 
 ## 🎮 Game Development
-[![Roblox Studio](https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white)](https://www.roblox.com/develop)
+[![Roblox Studio](https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white)](https://create.roblox.com/dashboard/creations)
 
 ---
 
