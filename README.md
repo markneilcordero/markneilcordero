@@ -46,7 +46,6 @@ I am a passionate **Full Stack Developer** with a growing interest in **Data Ana
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-
 ---
 
 ## 🎮 Game Development
