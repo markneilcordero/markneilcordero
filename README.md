@@ -56,3 +56,6 @@ I am a passionate **Full Stack Developer** with a growing interest in **Data Ana
 ## 📊 Data Analysis Tools
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+## My Goals
+I aspire to become a successful **Web Developer**, **Android Developer**, **Software Developer**, **Data Analyst**, and **Roblox Game Developer**.
