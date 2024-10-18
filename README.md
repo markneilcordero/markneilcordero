@@ -1,4 +1,4 @@
-# Hello! I'm Mark Neil Cordero
+# Hello! I'm Mark Neil Cordero.
 
 I am a passionate **Full Stack Developer** with a growing interest in **Data Analysis**. I have experience working with a wide array of technologies, including:
 
@@ -39,4 +39,4 @@ I am a passionate **Full Stack Developer** with a growing interest in **Data Ana
 ---
 
 ## My Goals
-I aspire to become a successful **Web Developer**, **Android Developer**, **Software Developer**, **Data Analyst**, and **Roblox Game Developer**.
+I aspire to become a successful **Web Developer**, **Android Developer**, **Desktop Developer**, **Data Analyst**, and **Roblox Game Developer**.
