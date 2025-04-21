@@ -4,41 +4,46 @@ I'm a passionate **Full Stack Developer** with a strong interest in building sca
 
 ---
 
-## 💻 Frontend Development
+## 🛠️ Tech Stack
+
+### 💻 Frontend Development
 - **Languages & Tools:** HTML5, CSS3, JavaScript, TypeScript
 - **Libraries & Frameworks:** Bootstrap, TailwindCSS, jQuery, React, Vue
 - **Meta Frameworks:** Next.js, Nuxt.js
 
----
-
-## 🧠 Backend Development & Databases
-- **Languages:** PHP, SQL, Node.js
-- **Frameworks & Tools:** Laravel, Backpack for Laravel, Express.js
-- **Databases:** MySQL, SQLite, Firebase, MongoDB
+### 🧠 Backend Development & Databases
+- **Languages:** PHP, SQL, Node.js  
+- **Frameworks & Tools:** Laravel, Backpack for Laravel, Express.js  
+- **Databases:** MySQL, SQLite, Firebase, MongoDB  
 - **Testing & API Tools:** PHPUnit, JEST, Hoppscotch, Postman
 
----
-
-## 📱 Android Development
+### 📱 Android Development
 - **Frameworks & Tools:** React Native, Expo Go, EAS (Expo Application Services)
 
----
-
-## 🖥️ Desktop App Development
+### 🖥️ Desktop App Development
 - **Framework:** Electron
 
----
-
-## 🎮 Game Development
+### 🎮 Game Development
 - **Technologies:** Phaser (HTML5), Roblox Studio (Lua)
 
----
-
-## 📊 Data Visualization & Analysis
+### 📊 Data Visualization & Analysis
 - **Libraries:** Chart.js, Danfo.js
 
 ---
 
-### 🌐 Let's Connect!
-Feel free to check out my projects and reach out if you're interested in collaborating or have an opportunity in mind.
+## 📈 GitHub Stats & Badges
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=markneilcordero&show_icons=true&theme=react" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=markneilcordero&layout=compact&theme=react" alt="Top Languages" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=markneilcordero&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+---
+
+## 🌐 Let's Connect!
+
+Feel free to check out my projects and reach out if you're interested in collaborating or have an opportunity in mind!
