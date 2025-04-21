@@ -1,42 +1,44 @@
-# Hello! I'm Mark Neil Cordero.
+# 👋 Hello! I'm Mark Neil Cordero
 
-I am a passionate **Full Stack Developer** with a growing interest in **Data Analysis**. I have experience working with a wide array of technologies, including:
+I'm a passionate **Full Stack Developer** with a strong interest in building scalable web applications, mobile apps, and interactive games. I work across various technologies in **Frontend**, **Backend**, **Desktop**, **Mobile**, and **Game Development**, and I’m continuously expanding my skills in **Data Analysis** and **Visualization**.
 
 ---
 
 ## 💻 Frontend Development
-- **Technologies:** [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-- **Frameworks & Libraries:** [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/) [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/) [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/) [![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)](https://vuejs.org/) [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/) [![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00C58E?style=for-the-badge&logo=nuxt.js&logoColor=white)](https://nuxtjs.org/) [![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](https://jquery.com/)
+- **Languages & Tools:** HTML5, CSS3, JavaScript, TypeScript
+- **Libraries & Frameworks:** Bootstrap, TailwindCSS, jQuery, React, Vue
+- **Meta Frameworks:** Next.js, Nuxt.js
 
 ---
 
-## ⚙️ Backend & Databases
-- **Technologies:** [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/) [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)](https://www.w3schools.com/sql/) [![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
-- **Frameworks:** [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/) [![Backpack](https://img.shields.io/badge/Backpack-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://backpackforlaravel.com/) [![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
-- **Databases:** [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/) [![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/index.html) [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/) [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-- **Testing & API Tools:** [![PHPUnit](https://img.shields.io/badge/PHPUnit-366488?style=for-the-badge&logo=php&logoColor=white)](https://phpunit.de/) [![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)](https://jestjs.io/) [![Hoppscotch](https://img.shields.io/badge/Hoppscotch-41B883?style=for-the-badge&logo=hoppscotch&logoColor=white)](https://hoppscotch.io/) [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
-
----
-
-## 🛠️ Software Development
-- **Programming Languages:** [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://dev.java/) [![Java Swing](https://img.shields.io/badge/Java_Swing-007396?style=for-the-badge&logo=java&logoColor=white)](https://docs.oracle.com/javase/8/docs/technotes/guides/swing/)
+## 🧠 Backend Development & Databases
+- **Languages:** PHP, SQL, Node.js
+- **Frameworks & Tools:** Laravel, Backpack for Laravel, Express.js
+- **Databases:** MySQL, SQLite, Firebase, MongoDB
+- **Testing & API Tools:** PHPUnit, JEST, Hoppscotch, Postman
 
 ---
 
 ## 📱 Android Development
-- **Programming Language:** [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
+- **Frameworks & Tools:** React Native, Expo Go, EAS (Expo Application Services)
+
+---
+
+## 🖥️ Desktop App Development
+- **Framework:** Electron
 
 ---
 
 ## 🎮 Game Development
-- **Platform:** [![Roblox Studio](https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white)](https://create.roblox.com/dashboard/creations)
+- **Technologies:** Phaser (HTML5), Roblox Studio (Lua)
 
 ---
 
-## 📊 Data Analysis
-- **Tools:** [![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel) [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://www.tableau.com/) [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/) [![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
+## 📊 Data Visualization & Analysis
+- **Libraries:** Chart.js, Danfo.js
 
 ---
 
-## My Goals
-I aspire to become a successful **Web Developer**, **Android Developer**, **Desktop Developer**, **Data Analyst**, and **Roblox Game Developer**.
+### 🌐 Let's Connect!
+Feel free to check out my projects and reach out if you're interested in collaborating or have an opportunity in mind.
+
