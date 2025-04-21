@@ -7,27 +7,60 @@ I'm a passionate **Full Stack Developer** with a strong interest in building sca
 ## 🛠️ Tech Stack
 
 ### 💻 Frontend Development
-- **Languages & Tools:** HTML5, CSS3, JavaScript, TypeScript
-- **Libraries & Frameworks:** Bootstrap, TailwindCSS, jQuery, React, Vue
-- **Meta Frameworks:** Next.js, Nuxt.js
+<p>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" /></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" /></a>
+  <a href="https://getbootstrap.com/"><img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white" /></a>
+  <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" /></a>
+  <a href="https://jquery.com/"><img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white" /></a>
+  <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" /></a>
+  <a href="https://vuejs.org/"><img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white" /></a>
+  <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" /></a>
+  <a href="https://nuxt.com/"><img src="https://img.shields.io/badge/Nuxt.js-00DC82?logo=nuxt.js&logoColor=white" /></a>
+</p>
 
 ### 🧠 Backend Development & Databases
-- **Languages:** PHP, SQL, Node.js  
-- **Frameworks & Tools:** Laravel, Backpack for Laravel, Express.js  
-- **Databases:** MySQL, SQLite, Firebase, MongoDB  
-- **Testing & API Tools:** PHPUnit, JEST, Hoppscotch, Postman
+<p>
+  <a href="https://www.php.net/"><img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" /></a>
+  <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" /></a>
+  <a href="https://www.sqlite.org/"><img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white" /></a>
+  <a href="https://firebase.google.com/"><img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" /></a>
+  <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" /></a>
+  <a href="https://laravel.com/"><img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white" /></a>
+  <a href="https://backpackforlaravel.com/"><img src="https://img.shields.io/badge/Backpack-3C3C3C?logo=laravel&logoColor=white" /></a>
+  <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" /></a>
+  <a href="https://expressjs.com/"><img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" /></a>
+  <a href="https://jestjs.io/"><img src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white" /></a>
+  <a href="https://phpunit.de/"><img src="https://img.shields.io/badge/PHPUnit-6C7790?logo=php&logoColor=white" /></a>
+  <a href="https://hoppscotch.io/"><img src="https://img.shields.io/badge/Hoppscotch-009688?logo=hoppscotch&logoColor=white" /></a>
+  <a href="https://www.postman.com/"><img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" /></a>
+</p>
 
 ### 📱 Android Development
-- **Frameworks & Tools:** React Native, Expo Go, EAS (Expo Application Services)
+<p>
+  <a href="https://reactnative.dev/"><img src="https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=black" /></a>
+  <a href="https://expo.dev/"><img src="https://img.shields.io/badge/Expo_Go-000020?logo=expo&logoColor=white" /></a>
+  <a href="https://docs.expo.dev/eas/"><img src="https://img.shields.io/badge/EAS_Build-4630EB?logo=expo&logoColor=white" /></a>
+</p>
 
 ### 🖥️ Desktop App Development
-- **Framework:** Electron
+<p>
+  <a href="https://www.electronjs.org/"><img src="https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=white" /></a>
+</p>
 
 ### 🎮 Game Development
-- **Technologies:** Phaser (HTML5), Roblox Studio (Lua)
+<p>
+  <a href="https://phaser.io/"><img src="https://img.shields.io/badge/Phaser-2E3A59?logo=phaser&logoColor=white" /></a>
+  <a href="https://create.roblox.com/"><img src="https://img.shields.io/badge/Roblox_Studio-000000?logo=roblox&logoColor=white" /></a>
+</p>
 
 ### 📊 Data Visualization & Analysis
-- **Libraries:** Chart.js, Danfo.js
+<p>
+  <a href="https://www.chartjs.org/"><img src="https://img.shields.io/badge/Chart.js-FF6384?logo=chart.js&logoColor=white" /></a>
+  <a href="https://danfo.jsdata.org/"><img src="https://img.shields.io/badge/Danfo.js-222222?logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgdmVyc2lvbj0iMSIgaGVpZ2h0PSIxNiIgd2lkdGg9IjE2IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxjaXJjbGUgY3g9IjgiIGN5PSI4IiByPSI4IiBmaWxsPSIjMjk3YmZlIi8+PC9zdmc+" /></a>
+</p>
 
 ---
 
