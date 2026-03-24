@@ -1,10 +1,35 @@
 # 👋 Hello! I'm Mark Neil Cordero
 
-I'm a passionate **Full Stack Developer** with a strong interest in building scalable web applications, mobile apps, and interactive games. I work across various technologies in **Frontend**, **Backend**, **Desktop**, **Mobile**, and **Game Development**, and I’m continuously expanding my skills in **Data Analysis** and **Visualization**.
+I'm a **Full Stack Developer & Freelancer** specializing in building **scalable web applications, custom dashboards, and business systems** that solve real-world problems.
+
+I help startups, businesses, and clients turn ideas into **production-ready applications** — from frontend interfaces to backend APIs and deployment.
+
+With experience across **Laravel, React, Vue, Next.js, Nuxt, and Node.js**, I focus on writing **clean, maintainable code** and delivering **fast, reliable, and user-friendly solutions**.
+
+I also build **Desktop Applications using C# (.NET Windows Forms)** for internal tools, automation systems, and business workflows.
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 What I Do
+- Build **custom web applications & admin dashboards**
+- Develop **REST APIs & backend systems**
+- Create **responsive frontend UIs (React / Vue / Next / Nuxt)**
+- Develop **desktop tools using C# (.NET WinForms)**
+- Integrate **Firebase, Supabase, and third-party APIs**
+- Deploy apps using **Vercel, Render, and cloud platforms**
+
+---
+
+## 💼 Freelance Focus
+I work with clients who need:
+- ✅ Scalable and maintainable systems  
+- ✅ Clean architecture & optimized performance  
+- ✅ Fast delivery with clear communication  
+- ✅ Long-term support and improvements  
+
+---
+
+## 🧠 Tech Stack
 
 ### 💻 Frontend Development
 <p>
