@@ -21,6 +21,32 @@ With strong experience in **Laravel, React, Vue, Next.js, Nuxt, and Node.js**, I
 
 ---
 
+## 🏗️ Architecture & Approach
+
+I work across different system architectures depending on project needs:
+
+* **Monolithic Applications** – structured, maintainable full-stack systems
+* **Decoupled Architecture** – separated frontend & backend for scalability
+* **Headless Architecture** – API-first systems with flexible frontend delivery
+
+> Focused on building systems that are **scalable, maintainable, and production-ready**
+
+---
+
+## 🤖 AI & LLM Development
+
+I leverage modern AI tools and Large Language Models (LLMs) to improve development speed, automation, and intelligent features:
+
+* **ChatGPT**
+* **GitHub Copilot**
+* **Cursor AI**
+* **Codex-based tools**
+* **Ollama (local LLM integration & experimentation)**
+
+> Used to accelerate workflows, automate repetitive tasks, and build AI-powered features into applications
+
+---
+
 ## 💼 Freelance Focus
 
 I work with clients who need:
