@@ -1,12 +1,14 @@
 # 👋 Hello! I'm Mark Neil Cordero
 
-🚀 **Full Stack Developer | Chrome Extension Developer**
+🚀 **Full Stack Developer | Chrome Extension Developer | React Native Android Developer**
 
-I build **scalable web applications, custom dashboards, and business systems** that solve real-world problems.
+I build **scalable web applications, custom dashboards, Chrome extensions, Android apps, and business systems** that solve real-world problems.
 
-I help startups and businesses turn ideas into **production-ready applications** — from frontend interfaces to backend APIs and deployment.
+I help startups and businesses turn ideas into **production-ready applications** — from frontend interfaces to backend APIs, browser extensions, mobile apps, and deployment.
 
 With strong experience in **Laravel, React, Vue, Next.js, Nuxt, and Node.js**, I focus on **clean architecture, performance, and maintainability**.
+
+I also build **Android applications using React Native**, expanding my mobile development skills alongside my full-stack and Chrome extension work.
 
 ---
 
@@ -16,6 +18,7 @@ With strong experience in **Laravel, React, Vue, Next.js, Nuxt, and Node.js**, I
 * Develop **REST APIs & backend systems**
 * Create **modern frontend UIs (React / Vue / Next / Nuxt)**
 * Develop **Chrome Extensions (automation & productivity tools)**
+* Build **Android apps using React Native**
 * Integrate **Firebase, Supabase, and third-party APIs**
 * Deploy apps using **Vercel, Render, and cloud platforms**
 
@@ -53,6 +56,9 @@ I work with clients who need:
 
 * ✅ Scalable and maintainable systems
 * ✅ Clean architecture & optimized performance
+* ✅ Custom web applications and dashboards
+* ✅ Chrome extensions and automation tools
+* ✅ React Native Android applications
 * ✅ Fast delivery with clear communication
 * ✅ Long-term support and improvements
 
@@ -86,6 +92,7 @@ I work with clients who need:
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white&style=for-the-badge" />
 </p>
 
 ---
@@ -102,6 +109,20 @@ I work with clients who need:
 
 ---
 
+### 📱 Mobile Development
+
+<p>
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge" />
+</p>
+
+I build **Android applications using React Native**, including practical mobile apps, utility apps, and mobile UI projects.
+
+> Expanding my development skills into mobile app development using my JavaScript and frontend experience.
+
+---
+
 ### 🖥️ Desktop Development (Secondary Skill)
 
 <p>
@@ -112,13 +133,13 @@ I work with clients who need:
 
 ---
 
-### 📱 Mobile & 🎮 Game Development (Expanding)
+### 🎮 Game Development (Expanding)
 
 <p>
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Phaser-2E3A59?logo=phaser&logoColor=white&style=for-the-badge" />
 </p>
+
+I also explore simple browser-based games, text simulation games, and interactive learning projects.
 
 ---
 
@@ -146,3 +167,5 @@ I work with clients who need:
 I focus on building **real-world solutions that scale** — not just code.
 
 Every project is designed to be **maintainable, efficient, and production-ready**.
+
+I am continuously improving my skills in **full-stack development, Chrome extension development, AI-powered tools, and React Native Android app development**.
