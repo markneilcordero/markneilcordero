@@ -143,19 +143,16 @@ I also explore simple browser-based games, text simulation games, and interactiv
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=markneilcordero&show_icons=true&theme=react&hide_border=true&cache_seconds=86400" 
-    alt="Mark Neil Cordero GitHub Stats" 
-    height="165" 
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=markneilcordero&layout=compact&theme=react&hide_border=true&cache_seconds=86400" 
-    alt="Mark Neil Cordero Top Languages" 
-    height="165" 
-  />
+  <a href="https://github.com/markneilcordero">
+    <img src="https://img.shields.io/badge/GitHub-markneilcordero-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  Building full-stack web apps, Chrome extensions, React Native Android apps, and practical developer tools.
 </p>
 
 ---
