@@ -146,8 +146,16 @@ I also explore simple browser-based games, text simulation games, and interactiv
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=markneilcordero&show_icons=true&theme=react" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=markneilcordero&layout=compact&theme=react" height="165" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=markneilcordero&show_icons=true&theme=react&hide_border=true&cache_seconds=86400" 
+    alt="Mark Neil Cordero GitHub Stats" 
+    height="165" 
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=markneilcordero&layout=compact&theme=react&hide_border=true&cache_seconds=86400" 
+    alt="Mark Neil Cordero Top Languages" 
+    height="165" 
+  />
 </p>
 
 ---
@@ -155,7 +163,7 @@ I also explore simple browser-based games, text simulation games, and interactiv
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://markneilcordero.dev/" target="_blank">
+  <a href="https://markneilcordero.dev" target="_blank">
     <img src="https://img.shields.io/badge/🌐 Portfolio Website-000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
