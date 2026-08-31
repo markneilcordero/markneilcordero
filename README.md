@@ -1,14 +1,14 @@
 # 👋 Hello! I'm Mark Neil Cordero
 
-🚀 **Full Stack Developer | Chrome Extension Developer | React Native Android Developer**
+🚀 **Full Stack Developer | Chrome Extension Developer | React Native Android Developer | Roblox Game Developer**
 
-I build **scalable web applications, custom dashboards, Chrome extensions, Android apps, and business systems** that solve real-world problems.
+I build **scalable web applications, custom dashboards, Chrome extensions, Android apps, Roblox games, and business systems** that solve real-world problems.
 
-I help startups and businesses turn ideas into **production-ready applications** — from frontend interfaces to backend APIs, browser extensions, mobile apps, and deployment.
+I help startups and businesses turn ideas into **production-ready applications** — from frontend interfaces to backend APIs, browser extensions, mobile apps, game experiences, and deployment.
 
-With strong experience in **Laravel, React, Vue, Next.js, Nuxt, and Node.js**, I focus on **clean architecture, performance, and maintainability**.
+With strong experience in **Laravel, React, Vue, Next.js, Nuxt, and Node.js**, I focus on **clean architecture, performance, maintainability, and practical solutions**.
 
-I also build **Android applications using React Native**, expanding my mobile development skills alongside my full-stack and Chrome extension work.
+I also build **Android applications using React Native** and develop **games and interactive experiences using Roblox Studio**, expanding my development experience across web, browser extensions, mobile, and game development.
 
 ---
 
@@ -19,6 +19,8 @@ I also build **Android applications using React Native**, expanding my mobile de
 * Create **modern frontend UIs (React / Vue / Next / Nuxt)**
 * Develop **Chrome Extensions (automation & productivity tools)**
 * Build **Android apps using React Native**
+* Create **games and interactive experiences using Roblox Studio**
+* Develop **browser-based games and interactive projects**
 * Integrate **Firebase, Supabase, and third-party APIs**
 * Deploy apps using **Vercel, Render, and cloud platforms**
 
@@ -32,13 +34,13 @@ I work across different system architectures depending on project needs:
 * **Decoupled Architecture** – separated frontend & backend for scalability
 * **Headless Architecture** – API-first systems with flexible frontend delivery
 
-> Focused on building systems that are **scalable, maintainable, and production-ready**
+> Focused on building systems that are **scalable, maintainable, efficient, and production-ready**
 
 ---
 
 ## 🤖 AI & LLM Development
 
-I leverage modern AI tools and Large Language Models (LLMs) to improve development speed, automation, and intelligent features:
+I leverage modern AI tools and Large Language Models (LLMs) to improve development speed, automation, problem-solving, and intelligent application features:
 
 * **ChatGPT**
 * **GitHub Copilot**
@@ -46,7 +48,9 @@ I leverage modern AI tools and Large Language Models (LLMs) to improve developme
 * **Codex-based tools**
 * **Ollama (local LLM integration & experimentation)**
 
-> Used to accelerate workflows, automate repetitive tasks, and build AI-powered features into applications
+I use AI-assisted development across web applications, Chrome extensions, mobile applications, development tools, automation workflows, and experimental AI-powered systems.
+
+> Used to accelerate development workflows, automate repetitive tasks, improve problem-solving, and integrate AI-powered functionality into applications.
 
 ---
 
@@ -59,6 +63,7 @@ I work with clients who need:
 * ✅ Custom web applications and dashboards
 * ✅ Chrome extensions and automation tools
 * ✅ React Native Android applications
+* ✅ API integrations and backend development
 * ✅ Fast delivery with clear communication
 * ✅ Long-term support and improvements
 
@@ -78,6 +83,7 @@ I work with clients who need:
   <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Nuxt.js-00DC82?logo=nuxt.js&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" />
 </p>
 
 ---
@@ -105,7 +111,9 @@ I work with clients who need:
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
 </p>
 
-> Building browser-based tools for **automation, productivity, and workflow optimization**
+I develop Chrome extensions using **Manifest V3**, JavaScript, browser APIs, content scripts, service workers, DOM manipulation, and external API integrations.
+
+> Building browser-based tools for **automation, productivity, data processing, and workflow optimization**
 
 ---
 
@@ -117,29 +125,50 @@ I work with clients who need:
   <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge" />
 </p>
 
-I build **Android applications using React Native**, including practical mobile apps, utility apps, and mobile UI projects.
+I build **Android applications using React Native**, including practical mobile apps, utility applications, interactive interfaces, and mobile-focused projects.
 
-> Expanding my development skills into mobile app development using my JavaScript and frontend experience.
+> Expanding my development capabilities into mobile applications using my JavaScript, React, and frontend development experience.
+
+---
+
+### 🎮 Game Development
+
+<p>
+  <img src="https://img.shields.io/badge/Roblox-000000?logo=roblox&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Roblox_Studio-00A2FF?logo=roblox&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Luau-335FFF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Phaser-2E3A59?style=for-the-badge" />
+</p>
+
+I develop **games and interactive experiences using Roblox Studio**, working with Roblox game mechanics, scripting, gameplay systems, user interfaces, player interactions, and game logic using **Luau**.
+
+I also build **browser-based games, 2D games, text simulation games, and interactive learning projects** using JavaScript and web technologies.
+
+> Expanding my game development experience through **Roblox Studio, Luau, browser-based game development, and interactive systems**.
 
 ---
 
 ### 🖥️ Desktop Development (Secondary Skill)
 
 <p>
-  <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Windows_Forms-0078D6?logo=windows&logoColor=white&style=for-the-badge" />
 </p>
 
+I also have experience building desktop applications and working with traditional desktop application development concepts.
+
 ---
 
-### 🎮 Game Development (Expanding)
+## 🛠️ Development Tools & Platforms
 
 <p>
-  <img src="https://img.shields.io/badge/Phaser-2E3A59?logo=phaser&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Roblox_Studio-00A2FF?logo=roblox&logoColor=white&style=for-the-badge" />
 </p>
-
-I also explore simple browser-based games, text simulation games, and interactive learning projects.
 
 ---
 
@@ -152,7 +181,7 @@ I also explore simple browser-based games, text simulation games, and interactiv
 </p>
 
 <p align="center">
-  Building full-stack web apps, Chrome extensions, React Native Android apps, and practical developer tools.
+  Building full-stack web apps, Chrome extensions, React Native Android apps, Roblox games, AI-powered tools, and practical developer projects.
 </p>
 
 ---
@@ -169,8 +198,8 @@ I also explore simple browser-based games, text simulation games, and interactiv
 
 ## ⚡ Personal Note
 
-I focus on building **real-world solutions that scale** — not just code.
+I focus on building **real-world solutions that solve practical problems** — not just writing code.
 
-Every project is designed to be **maintainable, efficient, and production-ready**.
+Every project is approached with an emphasis on **maintainability, efficiency, usability, and production-ready development practices**.
 
-I am continuously improving my skills in **full-stack development, Chrome extension development, AI-powered tools, and React Native Android app development**.
+I am continuously improving my skills across **full-stack development, Chrome extension development, AI-powered tools, React Native Android development, and Roblox game development using Roblox Studio**.
